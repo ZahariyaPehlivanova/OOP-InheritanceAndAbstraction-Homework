@@ -1,0 +1,6 @@
+D:\VisualStudio\OOP\Inheritance and Abstraction\01.Human, Student and Worker\bin\Debug\01.Human, Student and Worker.exe.config
+D:\VisualStudio\OOP\Inheritance and Abstraction\01.Human, Student and Worker\bin\Debug\01.Human, Student and Worker.exe
+D:\VisualStudio\OOP\Inheritance and Abstraction\01.Human, Student and Worker\bin\Debug\01.Human, Student and Worker.pdb
+D:\VisualStudio\OOP\Inheritance and Abstraction\01.Human, Student and Worker\obj\Debug\01.Human, Student and Worker.csprojResolveAssemblyReference.cache
+D:\VisualStudio\OOP\Inheritance and Abstraction\01.Human, Student and Worker\obj\Debug\01.Human, Student and Worker.exe
+D:\VisualStudio\OOP\Inheritance and Abstraction\01.Human, Student and Worker\obj\Debug\01.Human, Student and Worker.pdb
